@@ -1,4 +1,4 @@
-﻿namespace Entities.Concrete
+﻿namespace Entities.Concretes
 {
     public class StudentLesson
     {
@@ -10,9 +10,6 @@
         public Student Student { get; set; }
         public Lesson Lesson { get; set; }
 
-        public StudentLesson(int ıd)
-        {
-            Id = ıd;
-        }
+
     }
 }

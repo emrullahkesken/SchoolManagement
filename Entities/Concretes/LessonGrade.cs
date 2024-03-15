@@ -1,4 +1,4 @@
-﻿namespace Entities.Concrete
+﻿namespace Entities.Concretes
 {
     public class LessonGrade
     {
