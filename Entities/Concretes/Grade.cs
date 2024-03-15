@@ -1,6 +1,6 @@
-﻿using Core.Entites.Concrete;
+﻿using Core.Entites.Concretes;
 
-namespace Entities.Concrete
+namespace Entities.Concretes
 {
     public class Grade : EntityBase
     {
